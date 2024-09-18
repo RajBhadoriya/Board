@@ -1,0 +1,10 @@
+/* src/styles/Dropdown.css */
+.dropdown {
+    margin-right: 20px;
+  }
+  
+  .dropdown select {
+    padding: 8px;
+    border-radius: 4px;
+  }
+  

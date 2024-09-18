@@ -1,0 +1,22 @@
+/* src/styles/TicketCard.css */
+.ticket-card {
+    background-color: white;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 16px;
+  }
+  
+  .priority-4 {
+    color: red;
+  }
+  .priority-3 {
+    color: orange;
+  }
+  .priority-2 {
+    color: yellow;
+  }
+  .priority-1 {
+    color: green;
+  }
+  
